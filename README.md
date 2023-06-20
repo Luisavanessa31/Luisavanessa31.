@@ -1,9 +1,5 @@
 # Luisavanessa31.
 
-<p align="left">
-  <img src="link_para_imagem" alt="Imagem do Avatar">
-</p>
-
 ![Animação de Avatar](https://media.giphy.com/media/6kinTSzeKaIadI3hf8/giphy.gif)
 
 # Bem-vindo(a) ao meu Perfil! 👩‍💻🌿💼🔬🚀
@@ -50,6 +46,4 @@ Sinta-se à vontade para explorar meu perfil, conferir meus projetos e entrar em
 
 ![Emoji de Rosa com Preto](https://as2.ftcdn.net/v2/jpg/05/95/81/35/1000_F_595813559_HTpcfEZGJrzFm0AYs0SUaVOdrP3wgpaY.jpg)
 
-*Arte por: [Nome do Artista - Incluir créditos]*
 
-![Gráfico de Preferências de Cargos](link_para_grafico_preferencias_cargos.png)
